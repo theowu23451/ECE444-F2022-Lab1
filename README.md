@@ -28,3 +28,7 @@ https://github.com/VardhanYash/ECE444-F2022-Lab1
 
 https://github.com/theowu23451/ECE444-F2022-EP
 
+**Activity 7**
+
+![](images/Activity7.png)
+![](images/Activity7_2.png)
